@@ -1,2 +1,2 @@
 # ViolenceDetection
-Tensorflow implementation of ViolenceDetection model
+Tensorflow implementation of ViolenceDetection model described in: https://www.researchgate.net/publication/320662592_Learning_to_detect_violent_videos_using_convolutional_long_short-term_memory
